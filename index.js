@@ -23,7 +23,7 @@ app.use(
     secret: process.env.SESSION_SECRET,
     resave: false,
     saveUninitialized: true,
-    cookie: { secure: true, sameSite: "None" }, // Use 'true' if using HTTPS
+    cookie: { secure: true, sameSite: "None", maxAge: 1 * 60 * 60 * 1000 }, // Use 'true' if using HTTPS
   })
 );
 
