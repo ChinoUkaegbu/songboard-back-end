@@ -12,7 +12,7 @@ const port = process.env.PORT || 3000;
 
 app.use(
   cors({
-    origin: [`https://songboard-front-end.vercel.app/`],
+    origin: [`https://songboard-front-end.vercel.app`],
     credentials: true,
   })
 );
