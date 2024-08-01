@@ -12,7 +12,7 @@ const port = process.env.PORT || 3000;
 
 app.use(
   cors({
-    origin: [`http://localhost:5173`],
+    origin: [`https://songboard-front-end.vercel.app/`],
     credentials: true,
   })
 );
@@ -23,7 +23,7 @@ app.use(
     secret: process.env.SESSION_SECRET,
     resave: false,
     saveUninitialized: true,
-    cookie: { secure: false }, // Use 'true' if using HTTPS
+    cookie: { secure: true, sameSite: "None" }, // Use 'true' if using HTTPS
   })
 );
 
@@ -63,7 +63,7 @@ app.get("/auth/pinterest/callback", async (req, res) => {
     req.session.save(); // Save the session
 
     // console.log(response.data);
-    res.redirect("http://localhost:5173/pinterest-select"); //adjust redirect url when deploying
+    res.redirect("https://songboard-front-end.vercel.app/pinterest-select"); //adjust redirect url when deploying
   } catch (error) {
     res.status(500).send("Error during Pinterest OAuth");
   }
