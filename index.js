@@ -34,7 +34,8 @@ app.get("/auth/pinterest/callback", async (req, res) => {
   const authorizationCode = req.query.code;
   const clientId = process.env.PINTEREST_CLIENT_ID;
   const clientSecret = process.env.PINTEREST_CLIENT_SECRET;
-  const redirectUri = "http://localhost:3000/auth/pinterest/callback"; // This should match the one used in the frontend
+  const redirectUri =
+    "https://songboard-back-end.vercel.app/auth/pinterest/callback"; // This should match the one used in the frontend
 
   const authString = `${clientId}:${clientSecret}`;
   const authHeader = "Basic " + Buffer.from(authString).toString("base64");
