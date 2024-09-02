@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ChinoUkaegbu/SongBoard">
-    <img src="src/assets/logo-vinyl.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ChinoUkaegbu/songboard-back-end">
+    <img src="https://github.com/ChinoUkaegbu/SongBoard/blob/main/src/assets/logo-vinyl.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SongBoard</h3>
@@ -23,14 +23,14 @@
   <p align="center">
     An app that generates a playlist of songs based on the 'vibes' of your Pinterest boards
     <br />
-    <a href="https://github.com/ChinoUkaegbu/SongBoard"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ChinoUkaegbu/songboard-back-end"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://songboard-front-end.vercel.app">View Demo</a>
     ·
-    <a href="https://github.com/ChinoUkaegbu/SongBoard/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ChinoUkaegbu/songboard-back-end/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ChinoUkaegbu/SongBoard/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ChinoUkaegbu/songboard-back-end/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -127,7 +127,7 @@ Still want to try out SongBoard but don't have a Pinterest account? Navigate to 
 - [ ] Save playlists to Spotify
 - [ ] Implement dark mode
 
-See the [open issues](https://github.com/ChinoUkaegbu/SongBoard/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ChinoUkaegbu/songboard-back-end/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Chino Ukaegbu - [@twitter_handle](https://twitter.com/twitter_handle) - chinoukaegbu@gmail.com
 
-Project Link: [https://github.com/ChinoUkaegbu/SongBoard](https://github.com/ChinoUkaegbu/SongBoard)
+Project Link - [https://github.com/ChinoUkaegbu/songboard-back-end](https://github.com/ChinoUkaegbu/songboard-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,16 +183,16 @@ Project Link: [https://github.com/ChinoUkaegbu/SongBoard](https://github.com/Chi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ChinoUkaegbu/SongBoard.svg?style=for-the-badge
-[contributors-url]: https://github.com/ChinoUkaegbu/SongBoard/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ChinoUkaegbu/SongBoard.svg?style=for-the-badge
-[forks-url]: https://github.com/ChinoUkaegbu/SongBoard/network/members
-[stars-shield]: https://img.shields.io/github/stars/ChinoUkaegbu/SongBoard.svg?style=for-the-badge
-[stars-url]: https://github.com/ChinoUkaegbu/SongBoard/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ChinoUkaegbu/SongBoard.svg?style=for-the-badge
-[issues-url]: https://github.com/ChinoUkaegbu/SongBoard/issues
-[license-shield]: https://img.shields.io/github/license/ChinoUkaegbu/SongBoard.svg?style=for-the-badge
-[license-url]: https://github.com/ChinoUkaegbu/SongBoard/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ChinoUkaegbu/songboard-back-end.svg?style=for-the-badge
+[contributors-url]: https://github.com/ChinoUkaegbu/songboard-back-end/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ChinoUkaegbu/songboard-back-end.svg?style=for-the-badge
+[forks-url]: https://github.com/ChinoUkaegbu/songboard-back-end/network/members
+[stars-shield]: https://img.shields.io/github/stars/ChinoUkaegbu/songboard-back-end.svg?style=for-the-badge
+[stars-url]: https://github.com/ChinoUkaegbu/songboard-back-end/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ChinoUkaegbu/songboard-back-end.svg?style=for-the-badge
+[issues-url]: https://github.com/ChinoUkaegbu/songboard-back-end/issues
+[license-shield]: https://img.shields.io/github/license/ChinoUkaegbu/songboard-back-end.svg?style=for-the-badge
+[license-url]: https://github.com/ChinoUkaegbu/songboard-back-end/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chinonyerem-ukaegbu
 [product-screenshot]: assets_readme/home_page_1.png
