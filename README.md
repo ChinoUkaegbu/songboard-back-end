@@ -195,7 +195,7 @@ Project Link - [https://github.com/ChinoUkaegbu/songboard-back-end](https://gith
 [license-url]: https://github.com/ChinoUkaegbu/songboard-back-end/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chinonyerem-ukaegbu
-[product-screenshot]: assets_readme/home_page_1.png
+[product-screenshot]: https://github.com/ChinoUkaegbu/SongBoard/blob/main/assets_readme/home_page_1.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Node.js]: https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
